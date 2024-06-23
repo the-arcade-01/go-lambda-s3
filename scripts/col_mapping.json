@@ -1,0 +1,20 @@
+{
+  "code": "SC_CODE",
+  "name": "SC_NAME",
+  "group": "SC_GROUP",
+  "type:": "SC_TYPE",
+  "open": "OPEN",
+  "high": "HIGH",
+  "low": "LOW",
+  "close": "CLOSE",
+  "last": "LAST",
+  "pclose": "PREVCLOSE",
+  "trades": "NO_TRADES",
+  "noOfShares": "NO_OF_SHRS",
+  "turnover": "NET_TURNOV",
+  "tdcl": "TDCLOINDI",
+  "isin": "ISIN_CODE",
+  "date": "TRADING_DATE",
+  "filler2": "FILLER2",
+  "filler3": "FILLER3"
+}
